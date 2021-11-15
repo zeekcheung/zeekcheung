@@ -1,4 +1,4 @@
-# 💯生命不息，奋斗不止
+# 💯 Go ahead.
 
  🌱 I’m currently learning Vue.js  
  
